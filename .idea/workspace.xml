@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0c915f3-96f1-4a63-8ee8-7932e12dc24b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/out/production/demo_java/basic/ClassWork1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/ClassWork1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/errays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/errays.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VIvlpjfu2RFEKeyOSGXXAKWkpd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager" selected="Application.homework_erray">
+    <configuration name="errays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.errays" />
+      <module name="demo_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.homework" />
+      <module name="demo_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homework_erray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework_erray" />
+      <module name="demo_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.java" />
+      <module name="demo_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.homework_erray" />
+        <item itemvalue="Application.errays" />
+        <item itemvalue="Application.java" />
+        <item itemvalue="Application.homework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0c915f3-96f1-4a63-8ee8-7932e12dc24b" name="Default Changelist" comment="" />
+      <created>1576953577670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576953577670</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="38" key="CommitChangelistDialog2" timestamp="1577148394267">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="407" y="38" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1577148394267" />
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom" timestamp="1577149432663">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1577149432663" />
+    <state width="1628" height="242" key="GridCell.Tab.0.center" timestamp="1577149432662">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1577149432662" />
+    <state width="1628" height="242" key="GridCell.Tab.0.left" timestamp="1577149432662">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1577149432662" />
+    <state width="1628" height="242" key="GridCell.Tab.0.right" timestamp="1577149432663">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1628" height="242" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1577149432663" />
+    <state x="240" y="53" key="SettingsEditor" timestamp="1577106617066">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="240" y="53" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1577106617066" />
+  </component>
+</project>

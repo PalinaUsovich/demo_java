@@ -12,7 +12,8 @@ public class errays {
         days[4]="Fri";
         days[5]="Sat";
         days[6]="Mon";
-       String[] days={"Sun","Mon","Tue","Wed","Thu","Fri","Sat"};
+
+        System.out.println(days);
 
 
 
