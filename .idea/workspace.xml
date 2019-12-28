@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0c915f3-96f1-4a63-8ee8-7932e12dc24b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/demo_java/basic/ClassWork1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/ClassWork1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic/errays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/errays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/demo_java/TempHomework.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TempHomework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.homework_erray">
+  <component name="RunManager" selected="Application.TempHomework">
+    <configuration name="TempHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TempHomework" />
+      <module name="demo_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="errays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.errays" />
       <module name="demo_java" />
@@ -83,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TempHomework" />
         <item itemvalue="Application.homework_erray" />
         <item itemvalue="Application.errays" />
         <item itemvalue="Application.java" />
@@ -119,29 +127,37 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="407" y="38" key="CommitChangelistDialog2" timestamp="1577148394267">
+    <state x="407" y="38" key="CommitChangelistDialog2" timestamp="1577539692748">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state x="407" y="38" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1577148394267" />
-    <state width="1628" height="242" key="GridCell.Tab.0.bottom" timestamp="1577149432663">
+    <state x="407" y="38" key="CommitChangelistDialog2/0.23.1680.958@0.23.1680.958" timestamp="1577539692748" />
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom" timestamp="1577540284234">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1628" height="242" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1577149432663" />
-    <state width="1628" height="242" key="GridCell.Tab.0.center" timestamp="1577149432662">
+    <state width="1628" height="242" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1577540284234" />
+    <state width="1628" height="242" key="GridCell.Tab.0.center" timestamp="1577540284232">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1628" height="242" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1577149432662" />
-    <state width="1628" height="242" key="GridCell.Tab.0.left" timestamp="1577149432662">
+    <state width="1628" height="242" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1577540284232" />
+    <state width="1628" height="242" key="GridCell.Tab.0.left" timestamp="1577540284231">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1628" height="242" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1577149432662" />
-    <state width="1628" height="242" key="GridCell.Tab.0.right" timestamp="1577149432663">
+    <state width="1628" height="242" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1577540284231" />
+    <state width="1628" height="242" key="GridCell.Tab.0.right" timestamp="1577540284234">
       <screen x="0" y="23" width="1680" height="958" />
     </state>
-    <state width="1628" height="242" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1577149432663" />
+    <state width="1628" height="242" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1577540284234" />
     <state x="240" y="53" key="SettingsEditor" timestamp="1577106617066">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="240" y="53" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1577106617066" />
+    <state x="461" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1577387066036">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="461" y="296" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1577387066036" />
+    <state x="606" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577540039970">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="606" y="408" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.958@0.23.1680.958" timestamp="1577540039970" />
   </component>
 </project>
