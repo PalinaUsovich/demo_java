@@ -5,7 +5,7 @@ public class homework_number {
         if (number%15==0){
             System.out.println("The number is divisible by 15");
         }else{
-            System.out.println("the remainder is");
+            System.out.println(number%15 );
         }
 
 

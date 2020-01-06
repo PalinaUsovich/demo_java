@@ -25,6 +25,19 @@ public class homework_store {
            default:
                System.out.println("Out of stock.");
        }
+       String name = "Palina";
+       int length=name.length();
+           System.out.println(length);
+           if (length>8) {
+               System.out.println(name.replace("a","A"));
+
+
+           } else  {
+               System.out.println(name.toUpperCase());
+           }
+
+
+
         }
     }
 
