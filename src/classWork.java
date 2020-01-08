@@ -11,13 +11,29 @@ public class classWork {
 //        } else {
 //           System.out.println("Got for it, its pretty outside");
 //       }
-       int count = 100;
-       while (count>=0) {
-           System.out.println("Count:" + count);
-           count--;
+//       int count = 100;
+//       while (count>=0) {
+//           System.out.println("Count:" + count);
+//           count--;
+        String[] months = {"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"};
+
+
+        for (String month :months){
+
+            boolean IsTrue = month.equalsIgnoreCase("march");
+            if (IsTrue) {
+                System.out.println("March i here");
+                break;
+
+            }
+        }
+
+
+
+
+    }
        }
-       }
 
 
 
-}
+

@@ -18,7 +18,7 @@ class scanner {
         System.out.println("Enter your number:");
         int n = scan.nextInt();
         for (int i=1;i<=10;i++) {
-            System.out.println(n+ "*"+i+"=" +n*i);
+            System.out.println(n+ "/"+i+"=" +n/i);
 
 
 
