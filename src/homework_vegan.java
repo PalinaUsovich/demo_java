@@ -1,6 +1,6 @@
 //
-//public class homework_vegan {
-//     public static void main (String[]args) {
+public class homework_vegan {
+     public static void main (String[]args) {
 //       //Menu.
 //        boolean isGuestOneVegan = true;
 //        boolean isGuestTwoVegan = true;
@@ -13,13 +13,25 @@
 //            System.out.println("Salmon, Lamb Chops, Chicken Marsala");
 //        }
 //        //divisible
-//         int number = 25;
+//         int number = 31;
 //
-//         if (number%15==0){
+//         if (number/15==0){
 //             System.out.println("The number is divisible by 15");
-//         }else{
-//             System.out.println("the remainder is");
-//         }
+//         }else if (number/15==1){
+//             System.out.println("The number is not divisible");
+
+        // }
+         String myString="reversed";
+         int stringLen = myString.length();
+         String reversed = "";
+
+         for (int i = stringLen-1;i>=0; i--) {
+             reversed=reversed+myString.charAt(i);
+
+             System.out.println(reversed);
+
+         }
+
 //         //driver
 //        char gear = 'P';
 //         boolean isParPark=true;
@@ -41,9 +53,9 @@
 //         } else {
 //             System.out.println("Invalid mode type, please check your car mode!");
 //         }
-//     }
-//}
-//
+     }
+}
+
 
 
 

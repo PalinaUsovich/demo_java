@@ -6,13 +6,13 @@ public class homework_login {
         //	instance of scanner
         Scanner userName =  new Scanner(System.in);
         //Tell user to enter valid user name
-        System.out.println("Please enter your user name:");
+        System.out.println("Please enter your user name: ");
         //instance of scanner for valid password
         Scanner password = new Scanner(System.in);
         //tell user to enter user name
         System.out.println("Please enter your password: ");
         //takes input from console and storing the value into actualPassword  and actualUserName variables
-        String actualUserName=userName.nextLine();
+        String actualUserName = userName.nextLine();
         String actualPassword = password.nextLine();
         //setting expected password and user name which are  associated with user account details in database
         //?IF I WANT USER NAME AND PASSWORD BE IGNORED BY UPPER /LOWER CASE IN WHICH LINE SHOULD I ADD.
