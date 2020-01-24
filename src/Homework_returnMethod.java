@@ -7,19 +7,21 @@ public class Homework_returnMethod {
 
     public static void main(String[] args) {
 
-        String rev = reverse("Sample");
-        System.out.println(rev);
-        int[] myArray = {25, 15, 3, 2, 40};
-        System.out.println("reversed array: " + (Arrays.toString(revArray(myArray))));
-        double[] myNumber = {20, 10, 40, 44};
-        int[] muNumber = {20, 10, 40, 44};
-        System.out.println("Total of numbers: " + sumArray(muNumber));
-        System.out.println("average is :" + aV(myNumber));
-        int[] newNumbers = {20, 10, 40, 44, 32};
-        System.out.println("the max value:" + getMaxValue(newNumbers));
-        System.out.println("the min value:"+getMinValue(newNumbers));
-        String getAbbrev ="Happy New Year ";
-       // System.out.println("Get Abbreviation :" + abbrev(getAbbrev));
+//        String rev = reverse("Sample");
+//        System.out.println(rev);
+//        int[] myArray = {25, 15, 3, 2, 40};
+//        System.out.println("reversed array: " + (Arrays.toString(revArray(myArray))));
+//        double[] myNumber = {20, 10, 40, 44};
+//        int[] muNumber = {20, 10, 40, 44};
+//        System.out.println("Total of numbers: " + sumArray(muNumber));
+//        System.out.println("average is :" + aV(myNumber));
+//        int[] newNumbers = {20, 10, 40, 44, 32};
+//        System.out.println("the max value:" + getMaxValue(newNumbers));
+//        System.out.println("the min value:" + getMinValue(newNumbers));
+//        String getAbbrev = "Happy New Year ";
+        int myNumbers = 5;
+        System.out.println(getResult(myNumbers));
+        // System.out.println("Get Abbreviation :" + abbrev(getAbbrev));
         // System.out.println("Sorted array:" + Arrays.toString(sortingArray(muNumber)));
 
 
@@ -57,7 +59,7 @@ public class Homework_returnMethod {
     }
 
     //    //4.sort an array (return from method 10,20,40,44)??????
-
+     public static double sortArrayIn;
 
     //5.find average of given array.return 28.5
     public static double aV(double[] myArray) {
@@ -80,8 +82,9 @@ public class Homework_returnMethod {
         }
         return maxValue;
     }
+
     //7.find the min value in given array
-    public static int getMinValue(int []min) {
+    public static int getMinValue(int[] min) {
         int minValue = min[0];
         for (int i = 1; i < min.length; i++) {
             if (min[i] < minValue) {
@@ -93,6 +96,26 @@ public class Homework_returnMethod {
         return minValue;
     }
 //    //8.create abbreviation for any string
+
+//    public static String getAbbString( String userString){
+//        String[] stringArr=userString.split(" ");
+//        String [] userStringNew=;
+//        for (int i=0;i<userString.length();i++){
+//            stringArr=userStringNew[i]+charAt[0];
+//        }
+//        return userString;
+
+    public static int getResult(int myNumbers) {
+        int x = 0;
+
+        for (int i = 0; i <= myNumbers; i++) {
+
+            x = x + i;
+        }
+        return x;
+    }
+}
+//
 //    public static String  abbrev (String newAbbrev){
 //        String acronym="";
 //        for( int i = 0 ; {
@@ -107,7 +130,7 @@ public class Homework_returnMethod {
 
 
 
-}
+
 //
 
 

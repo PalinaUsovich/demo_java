@@ -42,5 +42,5 @@ public class TempHomework {
         double newFahrenheit =Kelvin * 9/5 - 459.67;
         return newFahrenheit;
     }
-//      
+//
 }
